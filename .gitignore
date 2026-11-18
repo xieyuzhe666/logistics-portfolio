@@ -1,0 +1,27 @@
+# 原始数据（不上传）
+**/data/*.csv
+**/data/**/*.csv
+**/data/*.xlsx
+**/data/**/*.xlsx
+**/data/*.zip
+**/data/archive*/
+!**/data/README.md
+
+# 学习参考（不公开）
+reference/
+
+# Notebook 缓存
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
